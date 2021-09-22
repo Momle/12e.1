@@ -1,0 +1,12 @@
+html>
+<head>
+<title>Online Sequencer - Make music online</title>
+<meta property="og:image" content="https://onlinesequencer.net/resources/icon.png" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="description" content="OnlineSequencer.net is an online music sequencer. Make tunes in your browser and share them with friends!" />
+<meta property="og:title" content="Make music online" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Online Sequencer" />
+<meta property="og:description" content="OnlineSequencer.net is an online music sequencer. Make tunes in your browser and share them with friends!" />
+<meta property="fb:app_id" content="1512952002290893" />
+<style id="css_vars">
+.key, .key_sharp, .key div, .key_sharp div {
